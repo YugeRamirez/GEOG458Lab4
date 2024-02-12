@@ -1,10 +1,10 @@
-# My Mapbox Project
+# GEOG458 Lab4
 
-This repository contains my Mapbox project, which includes a custom basemap and several thematic layers.
+This lab basically focuses on creating a custom basemap and several thematic layers using Mapbox GL JS.
 
 ## Web Map URL
 
-You can access the web map at: [Your Web Map URL]
+The web map url is at: ![maps](https://yugeramirez.github.io/GEOG458Lab4/)
 
 ## Screenshots
 
@@ -17,7 +17,7 @@ Here are screenshots of the four layers:
 
 ## Geographic Area
 
-The map examines the following geographic area: [Your Geographic Area]
+The map mainly examines the seattle Metro Area
 
 ## Zoom Levels
 
