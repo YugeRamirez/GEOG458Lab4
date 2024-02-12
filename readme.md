@@ -10,10 +10,10 @@ The web map url is at: https://yugeramirez.github.io/GEOG458Lab4/
 
 Here are screenshots of the four layers:
 
-1. **Basemap**: ![base](img\base.png)
-2. **Thematic Layer**: ![data](img\data.png)
-3. **Combined Layer**: ![combined](img\combined.png)
-4. **Themed Map Layer**: ![uw](img\uw.png)
+1. **Basemap**: ![base](img/base.png)
+2. **Thematic Layer**: ![data](img/data.png)
+3. **Combined Layer**: ![combined](img/combined.png)
+4. **Themed Map Layer**: ![uw](img/uw.png)
 
 ## Geographic Area
 
