@@ -4,7 +4,7 @@ This lab basically focuses on creating a custom basemap and several thematic lay
 
 ## Web Map URL
 
-The web map url is at: ![maps](https://yugeramirez.github.io/GEOG458Lab4/)
+The web map url is at: https://yugeramirez.github.io/GEOG458Lab4/
 
 ## Screenshots
 
